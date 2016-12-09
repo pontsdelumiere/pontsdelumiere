@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments for Bridges of Light</title>
+	<atom:link href="http://pontsdelumiere.com/en/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>http://pontsdelumiere.com/en</link>
+	<description>Stays at João de Deus, Casa de Dom Inácio de Loyola, Abadiânia</description>
+	<lastBuildDate>Wed, 18 Dec 2013 16:06:03 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.6</generator>
+	<item>
+		<title>Comment on Bonjour tout le monde&#160;! by Monsieur WordPress</title>
+		<link>http://pontsdelumiere.com/en/bonjour-tout-le-monde/#comment-1</link>
+		<dc:creator><![CDATA[Monsieur WordPress]]></dc:creator>
+		<pubDate>Wed, 18 Dec 2013 16:06:03 +0000</pubDate>
+		<guid isPermaLink="false">http://pontsdelumiere.com/en/?p=1#comment-1</guid>
+		<description><![CDATA[Bonjour, ceci est un commentaire.
+Pour supprimer un commentaire, connectez-vous et affichez les commentaires de cet article. Vous pourrez alors les modifier ou les supprimer.]]></description>
+		<content:encoded><![CDATA[<p>Bonjour, ceci est un commentaire.<br />
+Pour supprimer un commentaire, connectez-vous et affichez les commentaires de cet article. Vous pourrez alors les modifier ou les supprimer.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
